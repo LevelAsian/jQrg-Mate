@@ -10,10 +10,9 @@
 
 
 ## Equipment
-1. :fire: Something that boils water
-
-2. :stew: Something that holds water
-- :fork_and_knife: Tea filter
+1. :fire: Campfire
+2. :cyclone: Kettle
+3. :fork_and_knife: Tea filter
 
 ## Procedure
 1. Fill the Yerba Mate into tea filter
