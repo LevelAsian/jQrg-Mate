@@ -6,7 +6,7 @@
 | Ingredient              | Amount                    |
 | :-----------------------|:-------------------------:|
 | :leaves: Yerba Mate     | 55g                       |
-| :droplet: Hot Water     | 1 Liter                   |
+| :droplet: Hot Water     | 1 liter                   |
 | :candy: Sugar           | 150 ml                    |
 | :lemon: Citric acid     | 2 tablespoon              |
 | :sake: Carbonated water | 1 liter                   |
@@ -26,8 +26,8 @@
 5. Stir the :tea: Mate Tea:
 6. Put the :tea: Mate Tea: in :snowflake: or in a refrigerator until it's cold.
 7. Combine:
-  - :sake: Carbonated water 500 ml
-  - :tea: Mate Tea 500 ml
+  - :sake: Carbonated water 1 liter
+  - :tea: Mate Tea 1 liter
 
 ## References
 http://www.instructables.com/id/Club-Mate-Copycat/
