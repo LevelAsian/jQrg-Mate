@@ -1,10 +1,17 @@
 ## Ingredients
 
-- :tea: Yerba Mate (3 tbs, ~10g)
-- :droplet: Hot water (2c, ~500ml)
-- :candy: Brown sugar (3tbs, ~35g)
-- :lemon: Citric acid (1/2tsp, ~2g)
-- :sake: Carbonated water (~500ml) (preferably refridgerated)
+-  -
+
+-  - 500ml, 4-10 °C (40-50 °F)
+
+| What                    | Amount                    | Notes  |
+| ------------------------|:-------------------------:| ----------------:|
+| :tea: Yerba Mate        | 3 tablespoons (~10g)      ||
+| :droplet: Hot water     | 500 ml 4-10 °C (40-50 °F) |   $12  |
+| :candy: Brown sugar     | 3 tablespoons (~35g)      |    $1  |
+| :lemon: Citric acid     | 1/2 tablespoon (~2g)      |    $1  |
+| :sake: Carbonated water | 500ml                     |    $1  |
+
 
 ## Equipment
 - :fire: Something that boils water
@@ -17,10 +24,10 @@
 3. Let it sit for at least 7min.
 4. Then remove the tea filter,
 5. Add:
-  - the sugar
-  - the citric acid
-6. stir until dissolved.
-7. Cool down the "mate base": Put it in the fridge for some minutes (optionally add ice cubes)
+  - The sugar
+  - The citric acid
+6. Stir until dissolved.
+7. Cool down the "mate base": Put it in the fridge fo r some minutes (optionally add ice cubes)
 8. Combine carbonated water and the cold "mate base" in a 1:1 ratio.
 
 ## References
