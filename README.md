@@ -18,7 +18,7 @@
 
 ## Procedure
 1. Fill the :leaves:Yerba Mate into the :fork_and_knife:Tea filter
-2. Mix the :droplet:Hot Water and the :leaves:Yerba Mate: 70–80 °C (158–176 °F). hot, but not boiling:warning:
+2. Mix the :droplet:Hot Water and the :leaves:Yerba Mate: 70–80 °C (158–176 °F). :exclamation:Hot, but not boiling:exclamation:
 3. Let the mate tea sit for at least 7min.
 4. Remove the tea filter from the :tea: Mate Tea.
 5. Add these ingredients to the :tea: Mate Tea:
