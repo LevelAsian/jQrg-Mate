@@ -25,7 +25,7 @@
   - Brown sugar
   - Citric acid
 6. Stir the mate tea.
-7. Put the mate tea in snow or in a refridgerator until it's cold.
+7. Put the mate tea in snow or in a refrigerator until it's cold.
 8. Combine in a 1:1 ratio.
   - Carbonated water (500 ml)
   - Mate Tea (500 ml)
