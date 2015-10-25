@@ -1,10 +1,10 @@
 ## Ingredients
 
 - :tea: Yerba Mate (3 tbs, ~10g)
-- :droplet: hot water (2c, ~500ml)
-- :candy: brown sugar (3tbs, ~35g)
-- :lemon: citric acid (1/2tsp, ~2g)
-- :sake: carbonated water (~500ml) (preferably refridgerated)
+- :droplet: Hot water (2c, ~500ml)
+- :candy: Brown sugar (3tbs, ~35g)
+- :lemon: Citric acid (1/2tsp, ~2g)
+- :sake: Carbonated water (~500ml) (preferably refridgerated)
 
 ## Equipment
 - :fire: Something that boils water
@@ -12,17 +12,25 @@
 - :fork_and_knife: Tea filter
 
 ## Procedure
-1. Fill the yerba mate into tea filter, add hot water and let it sit for at least 7min.
-2. Then remove the tea filter,
-3. add:
+1. Fill the Yerba Mate into tea filter
+2. Add hot water: 70–80 °C (158–176 °F), hot but not boiling.
+3. Let it sit for at least 7min.
+4. Then remove the tea filter,
+5. Add:
   - the sugar
   - the citric acid
-4. stir until dissolved.
-5. Let the "mate base" cool down (add ice cubes if you're impatient) and put it in the fridge for some minutes.
-6. combine carbonated water and the cold "mate base" in a 1:1 ratio.
+6. stir until dissolved.
+7. Cool down the "mate base": Put it in the fridge for some minutes (optionally add ice cubes)
+8. Combine carbonated water and the cold "mate base" in a 1:1 ratio.
 
-## Based on:
+## References
 http://www.instructables.com/id/Club-Mate-Copycat/
+
+http://www.interlockroc.org/2010/04/17/open-mate-beta-2/
+
+https://github.com/Tobystereo/Matedor
+
+http://makezine.com/2010/08/12/how-to-homebrew-club-mate/
 
 ## License
 Copyright (c) 2015 Ubuntu Bad Boys DA
