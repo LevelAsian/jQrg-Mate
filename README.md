@@ -5,30 +5,29 @@
 
 | Ingredient              | Amount                    |
 | :-----------------------|:-------------------------:|
-| :leaves: Yerba Mate     | 3 tablespoons (~10g)      |
-| :droplet: Hot Water     | 500 ml                    |
-| :candy: Brown sugar     | 3 tablespoons (~35g)      |
-| :lemon: Citric acid     | 1/2 tablespoon (~2g)      |
-| :sake: Carbonated water | 500 ml                    |
+| :leaves: Yerba Mate     | 55g                       |
+| :droplet: Hot Water     | 1 Liter                   |
+| :candy: Sugar           | 150 ml                    |
+| :lemon: Citric acid     | 2 tablespoon              |
+| :sake: Carbonated water | 1 liter                   |
 
 ## Equipment
 1. :fire: Campfire
 2. :cyclone: Kettle
-3. :fork_and_knife: Tea filter
 
 ## Procedure
-1. Fill the :leaves:Yerba Mate into the :fork_and_knife:Tea filter
-2. Mix the :droplet:Hot Water and the :leaves:Yerba Mate: 70–80 °C (158–176 °F). :exclamation:Hot, but not boiling:exclamation:
-3. Let the mate tea sit for at least 7min.
-4. Remove the tea filter from the :tea: Mate Tea.
-5. Add these ingredients to the :tea: Mate Tea:
-  - :candy: Brown sugar 3 tablespoons (~35g)
-  - :lemon: Citric acid 1/2 tablespoon (~2g)
-6. Stir the :tea: Mate Tea:
-7. Put the :tea: Mate Tea: in :snowflake: or in a refrigerator until it's cold.
-8. Combine:
-  - :sake: Carbonated water (500 ml)
-  - :tea: Mate Tea: (500 ml)
+1. Mix the :droplet:Hot Water and the :leaves:Yerba Mate: 70–80 °C (158–176 °F). :exclamation:Hot, but not boiling:exclamation:
+2. Let the mate tea sit for at least 7min.
+3. Seperate the :leaves: Yerba Mate leaves from the :tea: Mate Tea.
+4. Combine:
+  - :tea: Mate Tea 1 Liter
+  - :candy: Sugar 150 ml  
+  - :lemon: Citric acid 2 tablespoon
+5. Stir the :tea: Mate Tea:
+6. Put the :tea: Mate Tea: in :snowflake: or in a refrigerator until it's cold.
+7. Combine:
+  - :sake: Carbonated water 500 ml
+  - :tea: Mate Tea 500 ml
 
 ## References
 http://www.instructables.com/id/Club-Mate-Copycat/
