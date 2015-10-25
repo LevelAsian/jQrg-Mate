@@ -22,7 +22,7 @@
 3. Let the mate tea sit for at least 7min.
 4. Remove the tea filter from the mate tea.
 5. Add these ingredients to the mate tea:
-  - Sugar
+  - Brown sugar
   - Citric acid
 6. Stir the mate tea.
 7. Put the mate tea in snow or in a refridgerator until it's cold.
