@@ -5,11 +5,11 @@
 
 | Ingredient              | Amount                    |
 | :-----------------------|:-------------------------:|
-| :leaves: Yerba Mate        | 3 tablespoons (~10g)      |
-| :droplet: Hot Water     | 500 ml 4-10 °C (40-50 °F) |
+| :leaves: Yerba Mate     | 3 tablespoons (~10g)      |
+| :droplet: Hot Water     | 500 ml                    |
 | :candy: Brown sugar     | 3 tablespoons (~35g)      |
 | :lemon: Citric acid     | 1/2 tablespoon (~2g)      |
-| :sake: Carbonated water | 500 ml                     |
+| :sake: Carbonated water | 500 ml                    |
 
 ## Equipment
 1. :fire: Campfire
