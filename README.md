@@ -1,4 +1,6 @@
 ## Ingredients
+Inline-style:
+![jQrg-Mate](img/jQrg-Mate.png "Logo Title Text 1")
 
 | Ingredient              | Amount                    |
 | :-----------------------|:-------------------------:|
@@ -15,16 +17,16 @@
 3. :fork_and_knife: Tea filter
 
 ## Procedure
-1. Fill the Yerba Mate into tea filter
+1. Fill the Yerba Mate into the tea filter
 2. Add hot water: 70–80 °C (158–176 °F), hot but not boiling.
 3. Let it sit for at least 7min.
-4. Then remove the tea filter,
+4. Remove the tea filter,
 5. Add:
-  - The sugar
-  - The citric acid
+  - Sugar
+  - Citric acid
 6. Stir until dissolved.
-7. Cool down the "mate base": Put it in the fridge for some minutes (optionally add ice cubes)
-8. Combine carbonated water and the cold "mate base" in a 1:1 ratio.
+7. Cool down the mate tea: Put it in the fridge for some minutes (optionally add ice cubes)
+8. Combine 500 ml carbonated water and the 500 ml cold Mate Tea in a 1:1 ratio.
 
 ## References
 http://www.instructables.com/id/Club-Mate-Copycat/
