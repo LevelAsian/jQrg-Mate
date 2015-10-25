@@ -22,8 +22,8 @@
 3. Let the mate tea sit for at least 7min.
 4. Remove the tea filter from the :tea: Mate Tea.
 5. Add these ingredients to the :tea: Mate Tea:
-  - :candy: Brown sugar
-  - :lemon: Citric acid
+  - :candy: Brown sugar 3 tablespoons (~35g)
+  - :lemon: Citric acid 1/2 tablespoon (~2g)
 6. Stir the :tea: Mate Tea:
 7. Put the :tea: Mate Tea: in :snowflake: or in a refrigerator until it's cold.
 8. Combine:
