@@ -1,5 +1,3 @@
-## Ingredients
-Inline-style:
 ![jQrg-Mate](img/jQrg-Mate.png "Logo Title Text 1")
 
 | Ingredient              | Amount                    |
@@ -9,7 +7,7 @@ Inline-style:
 | :candy: Brown sugar     | 3 tablespoons (~35g)      |
 | :lemon: Citric acid     | 1/2 tablespoon (~2g)      |
 | :sake: Carbonated water | 500 ml                     |
-
+## Ingredients
 
 ## Equipment
 1. :fire: Campfire
