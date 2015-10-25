@@ -1,4 +1,4 @@
-![jQrg-Mate](img/jQrg-Mate.jpg
+![jQrg-Mate](img/jQrg-Mate.png
    "Logo Title Text 1")
 
 ## Ingredients
