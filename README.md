@@ -26,7 +26,7 @@
   - :lemon: Citric acid
 6. Stir the :tea: Mate Tea:
 7. Put the :tea: Mate Tea: in :snowflake: or in a refrigerator until it's cold.
-8. Combine.
+8. Combine:
   - :sake: Carbonated water (500 ml)
   - :tea: Mate Tea: (500 ml)
 
