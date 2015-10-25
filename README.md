@@ -1,6 +1,8 @@
 ![jQrg-Mate](img/jQrg-Mate.jpg
    "Logo Title Text 1")
 
+## Ingredients
+
 | Ingredient              | Amount                    |
 | :-----------------------|:-------------------------:|
 | :tea: Yerba Mate        | 3 tablespoons (~10g)      |
@@ -8,7 +10,6 @@
 | :candy: Brown sugar     | 3 tablespoons (~35g)      |
 | :lemon: Citric acid     | 1/2 tablespoon (~2g)      |
 | :sake: Carbonated water | 500 ml                     |
-## Ingredients
 
 ## Equipment
 1. :fire: Campfire
@@ -17,15 +18,17 @@
 
 ## Procedure
 1. Fill the Yerba Mate into the tea filter
-2. Add hot water: 70–80 °C (158–176 °F), hot but not boiling.
-3. Let it sit for at least 7min.
-4. Remove the tea filter,
-5. Add:
+2. Add hot water: 70–80 °C (158–176 °F). :warning: hot but not boiling.
+3. Let the mate tea sit for at least 7min.
+4. Remove the tea filter from the mate tea.
+5. Add these ingredients to the mate tea:
   - Sugar
   - Citric acid
-6. Stir until dissolved.
-7. Cool down the mate tea: Put it in the fridge for some minutes (optionally add ice cubes)
-8. Combine 500 ml carbonated water and the 500 ml cold Mate Tea in a 1:1 ratio.
+6. Stir the mate tea.
+7. Put the mate tea in snow or in a refridgerator until it's cold.
+8. Combine in a 1:1 ratio.
+  - Carbonated water (500 ml)
+  - Mate Tea (500 ml)
 
 ## References
 http://www.instructables.com/id/Club-Mate-Copycat/
