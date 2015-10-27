@@ -1,6 +1,10 @@
 ![jQrg-Mate](img/jQrg-Mate.png
    "Logo Title Text 1")
 
+<h1 style="color:red"> Project status: Alpha </h1>
+
+jQrg-Mate: <i>caffeinated soft-drink</i>
+
 ## Ingredients
 
 | Ingredient              | Amount                    |
