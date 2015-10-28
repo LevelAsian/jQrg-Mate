@@ -11,7 +11,7 @@ jQrg-Mate: <i>caffeinated soft-drink</i>
 | :-----------------------|:-------------------------:|
 | :leaves: Yerba Mate     | 55g                       |
 | :droplet: Hot Water     | 1 liter                   |
-| :candy: Sugar           | 150 ml                    |
+| :candy: Sugar           | 50 ml                    |
 | :lemon: Citric acid     | 2 tablespoon              |
 | :sake: Carbonated water | 1 liter                   |
 
@@ -25,7 +25,7 @@ jQrg-Mate: <i>caffeinated soft-drink</i>
 3. Seperate the :leaves: Yerba Mate leaves from the :tea: Mate Tea.
 4. Combine:
   - :tea: Mate Tea 1 Liter
-  - :candy: Sugar 150 ml  
+  - :candy: Sugar 50 ml  
   - :lemon: Citric acid 2 tablespoon
 5. Stir the :tea: Mate Tea:
 6. Put the :tea: Mate Tea: in :snowflake: or in a refrigerator until it's cold.
